@@ -9,8 +9,9 @@
 
 ## Programmming
 
+- [GScript](/gcsript)
 - [GScript BASIC](/gsbasic)
 
-_Visit us at [Virtual GS](http://virtual-gs.com)._
 
 ![Virtual GS](logo.png)
+_[http://virtual-gs.com](http://virtual-gs.com)._
