@@ -13,6 +13,5 @@
 - [GScript BASIC](/gsbasic)
 
 
-![Virtual GS](logo.png)
-
+![Virtual GS](logo.png) 
 _[http://virtual-gs.com](http://virtual-gs.com)._
