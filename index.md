@@ -7,4 +7,4 @@
 - [Space War](/spacewar)
 - [Doodle War](/doodlewar)
 
-![logo.png]
+![Virtual GS](logo.png)
