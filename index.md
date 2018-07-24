@@ -1,6 +1,6 @@
 ## AR
 
-- [R2D2 Demo](usdz.html)
+- [R2D2 Demo](usdz.html): View AR model on iOS Safari.
 
 ## Game
 
