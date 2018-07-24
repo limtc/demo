@@ -1,6 +1,4 @@
-# Demo
-
-## AR
+## AR Demo
 
 * [R2D2](usdz.html)
 
