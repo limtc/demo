@@ -8,4 +8,4 @@
 - [Doodle War](/doodlewar)
 
 ![Virtual GS](logo.png)
-Visit us at [Virtual GS](http://virtualgs.com).
+_Visit us at [Virtual GS](http://virtual-gs.com)._
