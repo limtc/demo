@@ -7,6 +7,6 @@
 - [Space War](/spacewar)
 - [Doodle War](/doodlewar)
 
-![Virtual GS](logo.png)
-
 _Visit us at [Virtual GS](http://virtual-gs.com)._
+
+![Virtual GS](logo.png)
