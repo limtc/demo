@@ -1,3 +1,3 @@
 ## Demo
 
-[R2D2 Demo](usdz.html)
+[AR Demo - R2D2](usdz.html)
