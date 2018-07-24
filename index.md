@@ -9,7 +9,7 @@
 
 ## Programmming
 
-- [GScript](/gcsript)
+- [GScript](/gscript)
 - [GScript BASIC](/gsbasic)
 
 _[Virtual GS: http://virtual-gs.com](http://virtual-gs.com)_
