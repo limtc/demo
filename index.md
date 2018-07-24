@@ -4,13 +4,12 @@
 
 ## Game
 
-- [Space War](/spacewar/)
-- [Doodle War](/doodlewar/)
+- [Space War](/spacewar/): Space arcade game
+- [Doodle War](/doodlewar/): Space arcade game for kids!
 
 ## Programmming
 
-- [GScript](/gscript/)
-- [GScript BASIC](/gsbasic/)
+- [GScript BASIC](/gsbasic/): Imaginary language for an imaginary computer.
 
 *Virtual GS*: [http://virtual-gs.com](http://virtual-gs.com)
 
