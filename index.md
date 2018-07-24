@@ -4,13 +4,13 @@
 
 ## Game
 
-- [Space War](/spacewar)
-- [Doodle War](/doodlewar)
+- [Space War](/spacewar/)
+- [Doodle War](/doodlewar/)
 
 ## Programmming
 
-- [GScript](/gscript)
-- [GScript BASIC](/gsbasic)
+- [GScript](/gscript/)
+- [GScript BASIC](/gsbasic/)
 
 _[Virtual GS: http://virtual-gs.com](http://virtual-gs.com)_
 
