@@ -6,3 +6,5 @@
 
 - [Space War](/spacewar)
 - [Doodle War](/doodlewar)
+
+![logo.png]
