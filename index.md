@@ -4,8 +4,8 @@
 
 ## Game
 
-- [Space War](/spacewar/): Space arcade game
-- [Doodle War](/doodlewar/): Space arcade game for kids!
+- [Space War](/spacewar/): Space arcade game for iPhone.
+- [Doodle War](/doodlewar/): Space arcade game designed for kids.
 
 ## Programmming
 
