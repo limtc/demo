@@ -14,4 +14,5 @@
 
 
 ![Virtual GS](logo.png)
-_[http://virtual-gs.com](http://virtual-gs.com)._
+
+_[virtual-gs.com](http://virtual-gs.com)._
